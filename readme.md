@@ -1,4 +1,4 @@
-![header](D:\Programation\socean\unity\SpaceShooter\header.png)
+![header](https://github.com/BrunoOmoreshi/projetoAr/blob/main/header.png)
 
 # Android: App Realidade Aumentada com Unity engine
 
@@ -10,6 +10,6 @@ App simples que pede a permissão de uso da câmera de selfie no android, detect
 
 Decidi deixar a mascara verde para poder fazer edições posteriores se necessário no Davince Resolve, embora pudesse fazer uma mascara completa direto no unity.
 
-![59293914-aead7900-8c99-11e9-8f34-5e44a4575fc2](D:\Programation\socean\unity\projetoAr\59293914-aead7900-8c99-11e9-8f34-5e44a4575fc2.png)
+![59293914-aead7900-8c99-11e9-8f34-5e44a4575fc2](https://github.com/BrunoOmoreshi/projetoAr/blob/main/59293914-aead7900-8c99-11e9-8f34-5e44a4575fc2.png)
 
 Obs.: Essa imagem não é minha, é apenas para ilustrar o funcionamento, embora funcione exatamente assim (foi testado).
